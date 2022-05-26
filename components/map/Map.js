@@ -12,8 +12,8 @@ const Map = () => {
        provider={PROVIDER_GOOGLE}
        showsUserLocation={true}
        initialRegion={{
-       latitude: 37.78825,
-       longitude: -122.4324,
+       latitude: 52.4812,
+       longitude: -1.8995,
        latitudeDelta: 0.0922,
        longitudeDelta: 0.0421}}
       />
